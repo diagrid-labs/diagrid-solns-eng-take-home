@@ -42,11 +42,13 @@ Your agent must:
 
 Choose one of these scenarios or come up with your own:
 
-- Invoice intake agent that reads invoices from a location and extracts potentially conflicting data from them
+- Invoice intake agent that reads invoices from a location to extract and reason on data from them
 - Support triage agent that picks up new tickets, clarifies urgency and uses a knowledge base to provide a response
 - Lead enrichment agent that enhances basic leads with information from the internet
 
-Additional inspiration: https://docs.diagrid.io/dapr/use-cases/ai-agents
+Additional inspiration: 
+ - https://docs.diagrid.io/dapr/use-cases/ai-agents
+ - https://github.com/dapr/dapr-agents/tree/main/examples
 
 ## Deliverables
 
@@ -67,7 +69,8 @@ Additional inspiration: https://docs.diagrid.io/dapr/use-cases/ai-agents
 
 You will be evaluated on:
 
-- Effective use of Agent framework and Catalyst
+- Effective use of an Agent framework
+- Potential business value of the solution using Catalyst
 - Presentation clarity and communication skills
 - Code quality and completeness
 - Future production considerations (scalability, resiliency, security, etc.)
