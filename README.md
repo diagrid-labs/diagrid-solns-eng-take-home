@@ -1,11 +1,11 @@
 # Diagrid Solutions Engineer – Take-Home Assignment
 
-Build an autonomous agent of your choice, run it with Diagrid Catalyst, and prepare a short presentation showcasing:
+Build an autonomous agent of your choice, run it with Diagrid, and prepare a short presentation showcasing:
 
 - The problem you are solving
-- Why Catalyst is a good fit and what problems it solves
+- Why Diagrid is a good fit and what problems it solves
 - The architecture and technology that is used
-- How Catalyst helps manage, observe and operate the system
+- How Diagrid helps manage, observe and operate the system
 
 The goal is to create the application, explain the problem that the agent is solving, and demonstrate that you have thought about production considerations.
 
@@ -27,10 +27,10 @@ Your agent must:
 
   **Agents framework:** https://docs.diagrid.io/develop/agents/#framework-requirements
 
-- Be demonstrated using Diagrid Catalyst:
+- Be demonstrated using Diagrid:
   - Showcasing the agent running
   - Visualizing application topology, components, and past executions
-  - Explaining what Catalyst does in addition to the agent
+  - Explaining what Diagrid does in addition to the agent
 
 - Be implemented in one or more of the following languages:
   - Java
@@ -58,11 +58,11 @@ Additional inspiration:
   - Architecture overview including agent framework used
   - How to run the application locally
 
-**Catalyst Demo**: 20-30 minute (approx.) live demo on a scheduled interview panel call showcasing the following:
+**Diagrid Demo**: 20-30 minute (approx.) live demo on a scheduled interview panel call showcasing the following:
 
   - Application architecture and behavior
   - Agent in action
-  - Catalyst visualization and insights
+  - Diagrid visualization and insights
   - Future production considerations
 
 ## Evaluation Criteria
@@ -70,7 +70,7 @@ Additional inspiration:
 You will be evaluated on:
 
 - Effective use of an Agent framework
-- Potential business value of the solution using Catalyst
+- Potential business value of the solution using Diagrid
 - Presentation clarity and communication skills
 - Code quality and completeness
 - Future production considerations (scalability, resiliency, security, etc.)
@@ -82,9 +82,9 @@ You will be evaluated on:
 - Thoughtful discussion of architectural trade-offs and design decisions
 - Mapping the solution to a realistic customer use case
 
-## About Diagrid Catalyst
+## About Diagrid
 
-Diagrid Catalyst is an agentic durable execution platform for governing, securing, and running agents and workflows in production. It gives every workload — an agent, a workflow, an MCP server, or an application — a verifiable identity, durable execution, and policy-driven access, without writing security or infrastructure code in your application. With Catalyst, teams can:
+Diagrid is an agentic durable execution platform for governing, securing, and running agents and workflows in production. It gives every workload — an agent, a workflow, an MCP server, or an application — a verifiable identity, durable execution, and policy-driven access, without writing security or infrastructure code in your application. With Diagrid, teams can:
 
 - Orchestrate and understand complex business processes with end-to-end visibility
 - Build autonomous AI agents without sacrificing reliability, security, or auditability
@@ -95,5 +95,5 @@ Diagrid Catalyst is an agentic durable execution platform for governing, securin
 
 #### Resources
 
-- Sign up for a free Catalyst Cloud account here: https://www.diagrid.io/catalyst
-- Connect to Catalyst for local dev/test: https://docs.diagrid.io/develop/connect/
+- Sign up for a free Diagrid Cloud account here: https://www.diagrid.io/catalyst
+- Connect to Diagrid for local dev/test: https://docs.diagrid.io/develop/connect/
